@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    padding: 0;
+}
+
+
+#box {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    border-color: black;
+    border-width: 15px;
+    width: 400px;
+    height: 400px;
+    left: 250px;
+    top: 150px;
+}
+
